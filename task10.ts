@@ -1,5 +1,5 @@
 // Print Favorite Number Program
-// Author: 
+// Author: shafiq
 // Date: July 10, 2023
 // Description: This program stores my favorite number in a variable and prints a message revealing the favorite number.
 
